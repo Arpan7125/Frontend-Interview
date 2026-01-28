@@ -3,7 +3,10 @@
     {
       "id": 1,
       "title": "Future of Fintech",
-      "category": ["FINANCE", "TECH"],
+      "category": [
+        "FINANCE",
+        "TECH"
+      ],
       "description": "Exploring how AI and blockchain are reshaping financial services",
       "date": "2026-01-11T09:12:45.120Z",
       "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
@@ -12,7 +15,9 @@
     {
       "id": 2,
       "title": "Ace Your CA Finals",
-      "category": ["CAREER"],
+      "category": [
+        "CAREER"
+      ],
       "description": "Strategies and study plans to help you clear your exams on the first attempt without burning out",
       "date": "2026-01-09T14:30:00.000Z",
       "coverImage": "https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg",
@@ -21,7 +26,10 @@
     {
       "id": 3,
       "title": "Understanding Tax Reforms",
-      "category": ["TAX", "POLICY"],
+      "category": [
+        "TAX",
+        "POLICY"
+      ],
       "description": "A comprehensive breakdown of the new tax laws introduced this fiscal year and their impact on businesses",
       "date": "2026-01-05T11:00:00.000Z",
       "coverImage": "https://images.pexels.com/photos/4386431/pexels-photo-4386431.jpeg",
@@ -30,7 +38,10 @@
     {
       "id": 4,
       "title": "Soft Skills for Auditors",
-      "category": ["CAREER", "SKILLS"],
+      "category": [
+        "CAREER",
+        "SKILLS"
+      ],
       "description": "Why technical knowledge isn't enough: Mastering communication and leadership",
       "date": "2026-01-03T09:45:00.000Z",
       "coverImage": "https://images.pexels.com/photos/3184287/pexels-photo-3184287.jpeg",
@@ -39,11 +50,25 @@
     {
       "id": 5,
       "title": "Audit Automation Tools",
-      "category": ["TECH", "AUDIT"],
+      "category": [
+        "TECH",
+        "AUDIT"
+      ],
       "description": "The best software and AI tools revolutionizing the audit profession in 2026",
       "date": "2025-12-28T16:20:00.000Z",
       "coverImage": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg",
       "content": "Technology is transforming how audits are conducted. Here's a look at the tools shaping the future of auditing.\n\nData Analytics Platforms\n\nTools like ACL, IDEA, and Power BI enable auditors to analyze entire populations of data rather than samples. This approach increases audit coverage and identifies anomalies that traditional methods might miss.\n\nAI-Powered Risk Assessment\n\nMachine learning algorithms can analyze historical data to predict areas of high risk, allowing auditors to focus their efforts where they matter most.\n\nAutomated Documentation\n\nAI assistants can now draft working papers, summarize findings, and generate reports, significantly reducing the time spent on documentation.\n\nContinuous Auditing\n\nReal-time monitoring tools enable continuous auditing, providing ongoing assurance rather than point-in-time snapshots. This proactive approach helps organizations address issues before they escalate."
+    },
+    {
+      "id": "0101",
+      "title": "bvjbzjbv",
+      "category": [
+        "TECH"
+      ],
+      "description": "szvkjnknxk;jc nkjxcn;ljnzn lkcxn k;jnz;kjn 'lx;l n;jkxz jkznd jn; z;jl nkj",
+      "coverImage": "https://images.pexels.com/photos/3184287/pexels-photo-3184287.jpeg",
+      "content": "z cn nzn lcz mlm ljnzk n zbjk cm bjkzbs",
+      "date": "2026-01-28T05:05:33.099Z"
     }
   ]
 }
